@@ -1,0 +1,1 @@
+# su_icilebirlik_makine_ogrenmesi
